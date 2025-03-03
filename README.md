@@ -27,10 +27,8 @@ ANN_MINIST_2
 │  └─ 📄9.png
 ├─ 📄accuracy.png
 ├─ 📄ANN.ipynb
-├─ 📄ANN模型图参考.jpg
 ├─ 📄best_model.pth
 ├─ 📄class_indices.json
-├─ 📄demo.ipynb
 ├─ 📄last_model.pth
 ├─ 📄loss.png
 ├─ 📄README.md
@@ -50,8 +48,3 @@ ANN_MINIST_2
 7. 📄class_indices.json 是包含数据集类别的 json 文件；
 8. 📄output.txt 为模型训练时控制台的打印输出，包含训练损失、训练准确率、测试损失、测试准确率；
 
-
-
-注：
-
-本实验为方案 4，与方案 3 基本一致，就是将 epoch 从 50 改为 60。
