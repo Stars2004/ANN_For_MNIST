@@ -2,7 +2,7 @@
 
 
 ```
-ANN_MINIST_2
+ANN_MINIST
 ├─ 📁data
 │  └─ 📁MNIST
 │     └─ 📁raw
