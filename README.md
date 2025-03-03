@@ -1,4 +1,4 @@
-# 基于 MNIST 的 ANN 图像识别
+# 基于 ANN 的 MNIST 图像识别
 
 
 ```
